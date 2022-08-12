@@ -37,11 +37,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-s5C3cyBwaQI3ux2WBkFH8pBiejCliXMsh47Dot7tqBI=",
+      "hash": "sha256-564zLKZZ+Rl4KAOydVeDwXb63B9QI7tR1lnW+VafTuE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-8VXQtI0O83ukUY9cSZPXDS238W3uKpH3ReKffqXkWbw=",
+      "hash": "sha256-M4kMj7V5hsvM8Y1v9ahfJRb0kVvotKLGvLN80Gt76RQ=",
       "url": "_framework\/CryptoCurrencyTracker.dll"
     },
     {
@@ -389,5 +389,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "fJNHvmlL"
+  "version": "9rBe0Iga"
 };
