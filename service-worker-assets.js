@@ -1,11 +1,11 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-8RPFE4hFEoz9TpbriRapRIWcwpeqLhsbibr5AIZk8tc=",
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-ZEver0TjIVMYMC1sjMKUJZMgH3KN\/jDpKhXDttEBc1M=",
+      "hash": "sha256-jelk4zvNpXeY5gfBS4krY1KmRH2UYoty+FxmDa0jfmA=",
       "url": "index.html"
     },
     {
@@ -37,11 +37,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-FLbH4Z88tRqYFc+IgTK6xYwetHovDoaxNNogPn71yr4=",
+      "hash": "sha256-s5C3cyBwaQI3ux2WBkFH8pBiejCliXMsh47Dot7tqBI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-hhhqsPEFvK5OUicy1lSGy9aeiXj1DzU4Bv03R30bSJs=",
+      "hash": "sha256-8VXQtI0O83ukUY9cSZPXDS238W3uKpH3ReKffqXkWbw=",
       "url": "_framework\/CryptoCurrencyTracker.dll"
     },
     {
@@ -109,7 +109,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-HWZkjgkfmAtT61V7d3+bOQtvfPMVVnoM5jDH79rJczg=",
+      "hash": "sha256-YK5SPCsy+0wM3WIda1aez4OsVj5+ZlXsC82z2pFI0dg=",
       "url": "_framework\/MudBlazor.dll"
     },
     {
@@ -197,7 +197,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-t39wc2KNX4CXyAFLkY+4CLoC0lnx2X894SnzZ8qn2gE=",
+      "hash": "sha256-eFQ6nI3rMN5KQsBlEAnqE6\/QvRCIJZg73AnI+e7K30M=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -269,7 +269,7 @@
       "url": "_framework\/dotnet.6.0.8.pqds0w9bzq.js"
     },
     {
-      "hash": "sha256-ade25XbQoDiITNh\/DsOtj57RsG9AgwIkNH5nd37vwVo=",
+      "hash": "sha256-9JP0Cb2IdLIZirP0V\/Z20A3+VtH1UtRa8u0ci24K85k=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -389,5 +389,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "WtznD+an"
+  "version": "fJNHvmlL"
 };
