@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CryptoCurrencyTracker.dll": "sha256-8VXQtI0O83ukUY9cSZPXDS238W3uKpH3ReKffqXkWbw=",
+      "CryptoCurrencyTracker.dll": "sha256-LYwFhFgJR23uIpPZrz\/DBBIoAZkppXH2UNhCFQXFCAU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Nq\/rDWrutTLRi3B9B\/8F82r5okUPwgyudzxu0S1UDW8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-49aYzkTrtGxWm+UPXFk8SgH7FrWFArYTlSQedrm\/ZUw=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-lb9Q5dmbOUDPBjFecVUpAa6HiUMpaQXX84lUUFDx4CU=",

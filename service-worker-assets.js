@@ -5,11 +5,11 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-jelk4zvNpXeY5gfBS4krY1KmRH2UYoty+FxmDa0jfmA=",
+      "hash": "sha256-oElxLzvH1sNdHyPVgLN\/bGEfjvlzRTrGnqt8MflC+zA=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-4uZKCE373RfRxHU+8TnyZsT5xgVNOwcVJuGQLKPgFo4=",
+      "hash": "sha256-+MrcfAGKhCU27UMJTeKJp+J5CIJdTiPtbKO0bmfkRjc=",
       "url": "manifest.json"
     },
     {
@@ -37,11 +37,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-s5C3cyBwaQI3ux2WBkFH8pBiejCliXMsh47Dot7tqBI=",
+      "hash": "sha256-rA5\/WUntL7kaeuThNHBfl4y5\/IwcKc4q\/MeC2PWyQu8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-8VXQtI0O83ukUY9cSZPXDS238W3uKpH3ReKffqXkWbw=",
+      "hash": "sha256-LYwFhFgJR23uIpPZrz\/DBBIoAZkppXH2UNhCFQXFCAU=",
       "url": "_framework\/CryptoCurrencyTracker.dll"
     },
     {
@@ -389,5 +389,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "fJNHvmlL"
+  "version": "iG\/gj\/qs"
 };
